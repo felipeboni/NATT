@@ -1,0 +1,5 @@
+export { CpfInput } from "./CpfInput"
+export { PhoneInput } from "./PhoneInput"
+export { MailInput } from "./MailInput"
+export { PasswordInput } from "./PasswordInput"
+export { CurrencyInput } from "./CurrencyInput"
